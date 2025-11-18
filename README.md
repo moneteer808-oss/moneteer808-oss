@@ -9,7 +9,7 @@ Full-stack data professional with expertise in analytics, business intelligence,
 - **[Customer Analytics - Python](https://github.com/moneteer808-oss/Customer-Analytic-Python)** - Advanced customer segmentation with feasibility assessment
 - **[RFM Customer Segmentation - Python](https://github.com/moneteer808-oss/RFM-Customer-Segmentation-Python)** - Python implementation of customer behavior analysis
 - **[Superstore Predictive Analytics](https://github.com/moneteer808-oss/Superstore-Predictive-Customer-Analytics)** - R-based predictive modeling with methodological rigor
-- **[Superstore RFM Segmentation](https://superstorerfmdemo79c818.netlify.app/))** - Foundation customer analytics in R
+- **[Superstore RFM Segmentation](https://superstorerfmdemo79c818.netlify.app/)** - Foundation customer analytics in R
 - **[Bike Sharing Forecast](https://moneteer808-oss.github.io/Bike-Sharing-Forecast-Project/)** - Time series forecasting and demand prediction
 
 ### **Business Applications & Tools**
