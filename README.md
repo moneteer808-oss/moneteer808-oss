@@ -50,4 +50,4 @@ My portfolio demonstrates progressive skill development:
 
 ---
 moneteer808@gmail.com
-15 Nov 2025
+Nov. 2025
