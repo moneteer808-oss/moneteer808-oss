@@ -1,7 +1,12 @@
 # Data Analytics & Business Solutions Portfolio
 
 ## About Me
-Full-stack data professional with expertise in analytics, business intelligence, and web application development. I transform data into actionable insights and build practical tools that drive business decisions.
+Data Analytics & Project Management Professional  
+Focused on turning data into structured execution and operational decision-making.
+
+## What I Do
+Data Analytics & Project Management Professional  
+Focused on turning data into structured execution and operational decision-making.
 
 ## Project Portfolio
 
